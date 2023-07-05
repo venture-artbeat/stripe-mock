@@ -324,7 +324,7 @@
         "past_due": [],
         "pending_verification": []
       },
-      "status": "inactive"
+      "status": "active"
     },
     "capital.financing_offer": {
       "account": "acct_1NMDtSBCbJtdv1wl",
