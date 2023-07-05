@@ -316,7 +316,7 @@
         "past_due": [],
         "pending_verification": []
       },
-      "status": "inactive"
+      "status": "active"
     },
     "card": {
       "address_city": null,
